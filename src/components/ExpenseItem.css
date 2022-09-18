@@ -1,0 +1,13 @@
+.items-div {
+  display: flex;
+  background-color: beige;
+}
+.items-div > div {
+  flex: 1; /*grow*/
+}
+.button-action {
+  color: white;
+  background-color: rgb(243, 86, 86);
+  border-color: rgb(243, 86, 86);
+border-radius: 5px;
+}
